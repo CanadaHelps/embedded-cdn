@@ -21,7 +21,7 @@ Allow your supporters to donate to your charity without leaving your site.
 == Other Notes ==
 
 = embedcdn params: =
-* **page-id** - a CanadaHelps Custom Donate Now page id
+* **id** - a CanadaHelps Custom Donate Now page id
 
 == Screenshots ==
 
