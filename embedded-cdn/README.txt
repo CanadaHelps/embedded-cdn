@@ -1,4 +1,4 @@
-=== Embedded Donation Form ===
+=== CanadaHelps Embedded Donation Form ===
 Contributors: konstantinr
 Donate link: https://www.canadahelps.org/en/why-canadahelps/support-us/
 Tags: iframe, embed
