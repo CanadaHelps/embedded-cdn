@@ -1,0 +1,37 @@
+=== Embedded Donation Form ===
+Contributors: konstantinr
+Donate link: https://www.canadahelps.org/en/why-canadahelps/support-us/
+Tags: iframe, embed
+Requires at least: 3.0
+Tested up to: 5.0
+Stable tag: 4.3
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+
+Adds a shortcode to support embedded custom donate now pages. [embedcdn page-id="168"]
+
+== Description ==
+Allow your supporters to donate to your charity without leaving your site.
+
+== Installation ==
+
+1. Install and activate the plugin on the Plugins page
+2. Add shortcode to page or post content (ex. `[embedcdn page-id="168"]`)
+
+== Other Notes ==
+
+= embedcdn params: =
+* **page-id** - a CanadaHelps Custom Donate Now page id
+
+== Screenshots ==
+
+1. [embedcdn] shortcode
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+== Frequently Asked Questions ==
