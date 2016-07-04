@@ -1,10 +1,9 @@
-=== Embedded Donation Form ===
+=== CanadaHelps Embedded Donation Form ===
 Contributors: konstantinr
 Donate link: https://www.canadahelps.org/en/why-canadahelps/support-us/
 Tags: iframe, embed
 Requires at least: 3.0
 Tested up to: 5.0
-Stable tag: 4.3
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
