@@ -1,5 +1,5 @@
 === CanadaHelps Embedded Donation Form ===
-Contributors: konstantinr
+Contributors: canadahelps,konstantinr
 Donate link: https://www.canadahelps.org/en/why-canadahelps/support-us/
 Tags: iframe, embed
 Requires at least: 3.0
