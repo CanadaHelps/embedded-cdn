@@ -15,12 +15,12 @@ Allow your supporters to donate to your charity without leaving your site.
 == Installation ==
 
 1. Install and activate the plugin on the Plugins page
-2. Add shortcode to page or post content (ex. `[embedcdn id="168"]`)
+2. Add shortcode to page or post content. Replace 'your-id' with your CanadaHelps Custom Donate Now page-id (ex. `[embedcdn id="YOUR-ID"]`)
 
 == Other Notes ==
 
 = embedcdn params: =
-* **id** - a CanadaHelps Custom Donate Now page id
+* **id** - a CanadaHelps Custom Donate Now page id 
 * **language** - [**fr** or **en**] desired language (default: **en**)
 
 == Screenshots ==
@@ -37,4 +37,4 @@ Allow your supporters to donate to your charity without leaving your site.
 == Frequently Asked Questions ==
 = How do I display my donation form in French? =
 Add **language** parameter to the shortcode.
-`[embedcdn id="168" language="fr"]`
+`[embedcdn id="YOUR-ID" language="fr"]`
