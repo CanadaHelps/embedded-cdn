@@ -7,7 +7,7 @@ Tested up to: 5.1.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Adds a shortcode to support embedded custom donate now pages. [embedcdn id="168"]
+Adds a shortcode to support embedded custom donate now pages. [embedcdn id="YOUR-ID"]
 
 == Description ==
 Allow your supporters to donate to your charity without leaving your site.
