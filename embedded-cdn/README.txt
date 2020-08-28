@@ -3,7 +3,7 @@ Contributors: canadahelps,konstantinr,timothyc2019
 Donate link: https://www.canadahelps.org/en/why-canadahelps/support-us/
 Tags: iframe, embed
 Requires at least: 3.0
-Tested up to: 5.1.1
+Tested up to: 5.5
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
