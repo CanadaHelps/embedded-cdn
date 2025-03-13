@@ -22,6 +22,15 @@ function embeded_cdn_plugin_add_shortcode_cb($atts) {
 			$atts[$default] = $value;
 		}
 	}
+
+	if ($atts['language'] != 'en' && $atts['language'] != 'fr') {
+		$atts['language'] = 'en'; 
+	}
+
+	if (!ctype_digit($atts['id'])) {
+		$atts['id'] = ''; 
+	}
+
 	$html =  "\n";
 	$html .= '<!-- embedded cdn plugin v.'.EMBEDDED_CDN_PLUGIN_VERSION.' https://github.com/CanadaHelps/embedded-cdn -->';
 	$html .= "\n";
