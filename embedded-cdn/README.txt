@@ -4,6 +4,7 @@ Donate link: https://www.canadahelps.org/en/why-canadahelps/support-us/
 Tags: iframe, embed
 Requires at least: 3.0
 Tested up to: 6.7
+Stable tag: 1.0.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
