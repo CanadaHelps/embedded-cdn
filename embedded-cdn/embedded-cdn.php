@@ -3,7 +3,7 @@
 Plugin Name: CanadaHelps Embedded Donation Form
 Plugin URI:  https://github.com/CanadaHelps/embedded-cdn
 Description: Adds a shortcode to support embedded custom donate now pages. [embedcdn id="168"]
-Version:     1.0.1
+Version:     1.0.2
 Author:      CanadaHelps.org
 Author URI:  https://www.canadahelps.org/
 License:     GPLv3
@@ -38,8 +38,8 @@ function embeded_cdn_plugin_add_shortcode_cb($atts) {
 	$html .= ' id="ch_cdn_embed"';
 	$html .= ' type="text/javascript"';
 	$html .= ' data-cfasync="false"';
-	$html .= ' data-page-id="' . $atts["id"] . '"';
-	$html .= ' data-language="' . $atts["language"] . '"';
+	$html .= ' data-page-id="' . esc_attr($atts["id"]) . '"';
+	$html .= ' data-language="' . esc_attr($atts["language"]) . '"';
 	$html .= ' src="https://www.canadahelps.org/services/wa/js/apps/donatenow/embed.min.js"';
 	$html .= '></script>';
 	$html .= "\n";
